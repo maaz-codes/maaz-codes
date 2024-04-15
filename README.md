@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maaz-codes
 - 👀 I’m interested in React Frontend Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React Projects
+- 🤝 I’m looking to collaborate on React Projects
 - 📫 How to reach me email : maazkhan7454@gmail.com
 
 <!---
