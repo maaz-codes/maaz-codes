@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maaz-codes
-- 👀 I’m interested in Full Stack + Agentic Development
-- 🌱 I’m currently learning MCP servers
-- 🤝 I’m looking to collaborate on AI Agentic Projects
-- 📫 How to reach me email : maazkhan.dev@outlook.com
+- 🤖 I'm an AI Agents Engineer — I build agentic systems, RAG pipelines, and voice AI
+- 🔭 Currently building Weeave — an AI agent marketplace, live on the iOS App Store
+- 🛠️ LangGraph · Agno · Composio · React Native · Supabase · Claude
+- 🤝 Open to remote founding engineer roles at AI-native startups
+- 📫 How to reach me: maazkhan.dev@outlook.com
 <!---
 maaz-codes/maaz-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
