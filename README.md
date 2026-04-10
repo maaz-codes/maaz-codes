@@ -1,4 +1,4 @@
-- 🤖 I'm an AI Agents Engineer — I build agentic systems, RAG pipelines, and voice AI
+- 👋 Hi, I'm an AI Engineer — I build agentic systems, RAG pipelines, and voice AI
 - 🔭 Currently building Weeave — an AI agent marketplace, live on the iOS App Store
 - 🛠️ LangGraph · Agno · Composio · React Native · Supabase · Claude
 - 🤝 Open to remote founding engineer roles at AI-native startups
